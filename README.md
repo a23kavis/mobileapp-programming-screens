@@ -26,6 +26,6 @@ I denna kod nedan så bygger jag mainactivity för att leda till login activity 
 ```
 
 
-![](http://kaval.tech/u/2fYscH.png)
+![](https://kaval.tech/u/2fYscH.png)
 
-![](http://kaval.tech/u/Hk5DEN.png)
+![](https://kaval.tech/u/Hk5DEN.png)
