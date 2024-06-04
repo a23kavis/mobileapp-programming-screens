@@ -19,9 +19,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, login.class);
-                intent.putExtra("name", "Test");
+                intent.putExtra("email", "a23kavis@student.his.se");
                 startActivity(intent);
+
             }
+
+
         });
     }
 }
